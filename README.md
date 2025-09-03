@@ -76,7 +76,7 @@ PC-com-MMU/
 
 ## Licença
 
-Este projeto está licenciado sob a [insira aqui: MIT, GPL, etc.], conforme o arquivo `LICENSE` (caso haja) ou conforme sua escolha.
+Este projeto está licenciado sob a [MIT License](./LICENSE).
 
 ## Sobre MMU
 
